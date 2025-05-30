@@ -1,4 +1,5 @@
 Resenha Crítica: A Jornada Ágil da Intel com Scrum
+
 Introdução
 O case da Intel, detalhado no estudo "Agile Project Development at Intel: A Scrum Odyssey", ilustra a transformação ágil do grupo Product Development Engineering (PDE), responsável por testes de microprocessadores. Em um ambiente tradicionalmente dominado pelo waterfall, a Intel enfrentava desafios como prazos irreais, alta rotatividade e silos funcionais. A adoção do Scrum buscou melhorar a coordenação entre equipes, reduzir ciclos de desenvolvimento e aumentar a transparência.
 
